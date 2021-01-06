@@ -88,7 +88,7 @@ tableView.ptr.hideFooter()
 
 ## Installation
 
-HorizontalCalendar is available through [CocoaPods](https://cocoapods.org). To install
+PullToRefreshDSL is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
@@ -101,4 +101,4 @@ Salmaan Ahmed, salmaan.ahmed@hotmail.com
 
 ## License
 
-HorizontalCalendar is available under the MIT license. See the LICENSE file for more info.
+PullToRefreshDSL is available under the MIT license. See the LICENSE file for more info.
