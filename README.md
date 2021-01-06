@@ -2,9 +2,9 @@
 One line of code to add pull to refresh view to header or footer of any UIScrollView subclass i.e. Collection/TableView.
 
 ![Swift 5](https://img.shields.io/badge/Swift-5-orange.svg?style=flat)
-[![Version](https://img.shields.io/cocoapods/v/PaginatedTableView.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
-[![License](https://img.shields.io/cocoapods/l/PaginatedTableView.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
-[![Platform](https://img.shields.io/cocoapods/p/PaginatedTableView.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
+[![Version](https://img.shields.io/cocoapods/v/PullToRefreshDSL.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
+[![License](https://img.shields.io/cocoapods/l/PullToRefreshDSL.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
+[![Platform](https://img.shields.io/cocoapods/p/PullToRefreshDSL.svg?style=flat)](https://cocoapods.org/pods/PullToRefreshDSL)
 ![Country](https://img.shields.io/badge/Made%20with%20%E2%9D%A4-pakistan-green.svg)
 
 ## Example
